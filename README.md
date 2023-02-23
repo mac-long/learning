@@ -3,6 +3,5 @@ A collection of folders for learning various languages, frameworks and more! I h
 
 ## Contents 
 
-[Swift](./swift)
-
-[Rust](./rust)
+- [Swift](./swift)
+- [Rust](./rust)
