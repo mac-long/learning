@@ -16,3 +16,4 @@ A type safe language best used for systems programming, backend api development 
 - `const DAYS_OF_WEEK: u32 = 7` - consts are immutable by default and cannot be mutable ever.
   - consts can be defined in any scope including the global scope, meaning they are useful for values needed in various functions.
 - You can use shadowing to redefine a variable using `let` again, this leaves the variable in an immutable state.
+  - The other use of shadowing is changing the type of a variable while keeping the same name.
