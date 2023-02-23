@@ -19,7 +19,7 @@ A type safe language best used for systems programming, backend api development 
   - The other use of shadowing is changing the type of a variable while keeping the same name.
 - a `scalar` type represents a single value, Rust has 4 primary `scalar` types: `Integers`, `Floating-Point Numbers`, `Booleans` and `characters`.
   - An `integer` is a number without a fractional component.
-    - You can utilise `u8|i8` throught to `u128|i128` to define the length of the `integer` in a Signed or Unsigned format.
+    - You can utilise `u8|i8` through to `u128|i128` to define the length of the `integer` in a Signed or Unsigned format.
     - `signed|unsigned` refers to whether the number can be negative, in other words whether the number needs to have a sign with it (signed) or whether it will only be positive and can therefore be represented without a sing (unsigned).
   - `floating-point` types are numbers with decimal points, i.e `6.9`.
   - Rust supports basical mathemetical operations for all number types: addition, subtraction, multiplication, division, and remainder.
